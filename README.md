@@ -5,7 +5,7 @@
 
 ## GO TO NETLIFY ➡ https://05sasswebsite.netlify.app/
 
-<p><img align="center" alt="gif" src="./img/Project-05-SASS-Website.gif" width="500" height="320" /></p>
+<p><img align="center" alt="gif" src="img/Project-05-SASS-Website.gif" width="500" height="320" /></p>
 
 ## Description
 
