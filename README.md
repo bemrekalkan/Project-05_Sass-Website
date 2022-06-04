@@ -6,6 +6,7 @@
 ## GO TO NETLIFY ➡ https://05sasswebsite.netlify.app/
 
 <p><img align="center" alt="gif" src="./img/Project-05-SASS-Website.gif" width="500" height="320" /></p>
+
 ## Description
 
 Project aims to create website site using sass.
@@ -44,10 +45,6 @@ Project aims to create website site using sass.
               |----main.scss
         |----img (folder)
 ```
-
-## Expected Outcome
-
-![Project 005 Snapshot](Sass.gif)
 
 ## Objective
 
@@ -94,9 +91,3 @@ Make a web page like in the [example project](https://harveycla.github.io/Sass/)
 ## Notes
 
 - You can use HTML and CSS to complete this project.
-
-## Resources
-
-- [Images](./img)
-
-<center> ⌛ Happy Coding  ✍ </center>
