@@ -1,10 +1,11 @@
 <p>Clarusway<img align="right"
   src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
-# Project-005 : Sass Website Page Design
+## Project-05 : SASS WEBSITE
 
+## GO TO NETLIFY ➡ https://05sasswebsite.netlify.app/
 
-
+<p><img align="center" alt="gif" src="./img/Project-05-SASS-Website.gif" width="500" height="320" /></p>
 ## Description
 
 Project aims to create website site using sass.
@@ -13,42 +14,40 @@ Project aims to create website site using sass.
 
 - Your company has recently started on a project that aims to create a company website page. So you and your colleagues have started to work on the project.
 
-## Project Skeleton 
+## Project Skeleton
 
 ```
 005-Sass-website-page-design (folder)
 |
-|----readme.md         # Given to the students (Definition of the project)          
-|----images            # Given to the students (Images of the project)   
+|----readme.md         # Given to the students (Definition of the project)
+|----images            # Given to the students (Images of the project)
 |----solution
-        |----index.html  
-        |----css (folder)   
-              |----style.css  
-              |----style.css.map  
-        |----scss (folder)   
-              |----abstracts (folder) 
-                    |----_mixin.scss 
-                    |----_variables.scss 
-              |----base (folder) 
-                    |----_reset.scss               
-              |----components (folder) 
-                    |----_footer.scss 
-                    |----_nav.scss 
-                    |----_responsive.scss 
-              |----pages (folder) 
-                    |----_about.scss 
-                    |----_contact.scss 
-                    |----_home.scss 
-                    |----_projects.scss 
-              |----main.scss  
+        |----index.html
+        |----css (folder)
+              |----style.css
+              |----style.css.map
+        |----scss (folder)
+              |----abstracts (folder)
+                    |----_mixin.scss
+                    |----_variables.scss
+              |----base (folder)
+                    |----_reset.scss
+              |----components (folder)
+                    |----_footer.scss
+                    |----_nav.scss
+                    |----_responsive.scss
+              |----pages (folder)
+                    |----_about.scss
+                    |----_contact.scss
+                    |----_home.scss
+                    |----_projects.scss
+              |----main.scss
         |----img (folder)
 ```
 
 ## Expected Outcome
 
-![Project 005 Snapshot](Sass.gif) 
-
-
+![Project 005 Snapshot](Sass.gif)
 
 ## Objective
 
@@ -56,7 +55,7 @@ Make a web page like in the [example project](https://harveycla.github.io/Sass/)
 
 ### At the end of the project, following topics are to be covered;
 
-- HTML 
+- HTML
 
 - CSS
 
@@ -68,27 +67,25 @@ Make a web page like in the [example project](https://harveycla.github.io/Sass/)
 
 - use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
-## Steps to Solution 
+## Steps to Solution
 
-- Step 1: Download or clone project repo on Github 
+- Step 1: Download or clone project repo on Github
 
 - Step 2: Create project folder for local public repo on your pc
 
 - Step 3: Create Sass Website.
 
->>Part-1 HTML Structure
+> > Part-1 HTML Structure
 
-	- Creat structure of the HTML5
-	- Give name of your project (title)
-	- Create the main structur of the HTML
+    - Creat structure of the HTML5
+    - Give name of your project (title)
+    - Create the main structur of the HTML
 
->>Part-2 Sass / Scss Structure
+> > Part-2 Sass / Scss Structure
 
-	- Set a background
-	- Set color and margin etc..
-	- Define others color-size-padding etc with scss
-
-  
+    - Set a background
+    - Set color and margin etc..
+    - Define others color-size-padding etc with scss
 
 - Step 3: Push your application into your own public repo on Github
 
@@ -100,7 +97,6 @@ Make a web page like in the [example project](https://harveycla.github.io/Sass/)
 
 ## Resources
 
--  [Images](./img)
-
+- [Images](./img)
 
 <center> ⌛ Happy Coding  ✍ </center>
